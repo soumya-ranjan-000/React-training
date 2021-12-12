@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "name": "Rohit Sharma",
+      "jersy": 45
+    },
+    {
+      "name": "Shubman Gill",
+      "jersy": 77
+    },
+    {
+      "name": "Cheteshwar Pujara",
+      "jersy": 25
+    },
+    {
+      "name": "Virat Kohli",
+      "jersy": 18
+    },
+    {
+      "name": "Ajinkya Rahane",
+      "jersy": 27
+    },
+    {
+      "name": "Rishabh Pant",
+      "jersy": 17
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "jersy": 8
+    }
+  ]
+}
