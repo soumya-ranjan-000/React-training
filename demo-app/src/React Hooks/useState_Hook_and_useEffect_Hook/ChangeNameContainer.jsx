@@ -1,7 +1,7 @@
 import ChangeName from "./ChangeName";
 import {useState} from "react";
 
-const ChangeNameContainer = (props) => {
+const ChangeNameContainer = () => {
     let [visibility,setVisibility] =useState(true);
             function showBtnHandler() {
             setVisibility((prevVisibility)=>!prevVisibility);
