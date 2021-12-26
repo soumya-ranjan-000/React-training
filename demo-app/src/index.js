@@ -18,7 +18,9 @@ import "bootstrap/dist/css/bootstrap.css";
 // import App from "./React Hooks/useState_Hook_and_useEffect_Hook/App"
 // import App from "./React Hooks/useContextHook/App"
 // import App from "./React Hooks/useRef_Hook/App"
-import App from "./React Hooks/useReducerHook/App"
+// import App from "./React Hooks/useReducerHook/App"
+// import App from "./React_Pure_Component/App"
+import App from "./React Hooks/useCallback_hook/App"
 ReactDOM.render(
   <React.StrictMode>
     <Fragment>

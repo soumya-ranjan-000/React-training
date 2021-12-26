@@ -1,2 +1,2 @@
-This project contains react related examples.
+    This project contains react related examples.
 1. Run Json Server:  demo-app\src\Json_Files> json-server -w players.json -p 3001
